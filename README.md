@@ -1,7 +1,6 @@
 # SynD-Examples
 
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/jdrusso/SynD-Examples/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdrusso/SynD-Examples/HEAD)
 
 Some simple examples of making a synthetic dynamics model from an MSM built from MD data.
 
