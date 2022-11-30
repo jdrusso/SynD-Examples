@@ -1,0 +1,12 @@
+name: synd_demo
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+ - python=3.10
+ - mdanalysis
+ - scipy
+ - numpy
+ - pip
+ - pip:
+   - git+https://github.com/jdrusso/synd.git@develop
